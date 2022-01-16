@@ -6,7 +6,7 @@ This application shows most 6 English characters on chessboards.
 
 To execute: `python main.py`
 
-## Screenshot
+## Screenshots
 
 ![](screenshots/1.png)
 
