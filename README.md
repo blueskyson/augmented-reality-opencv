@@ -2,7 +2,7 @@
 
 A simple example of augmented reality using OpenCV.
 
-This application shows most 6 English characters on chessboards.
+This application shows at most 6 English characters on chessboards.
 
 To execute: `python main.py`
 
